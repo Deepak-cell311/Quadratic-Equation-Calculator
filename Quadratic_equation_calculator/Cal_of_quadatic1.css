@@ -1,0 +1,73 @@
+        *{
+            margin: 0px;
+            padding: 0px;
+            
+        }
+
+        .heading{
+            align: center;
+            font-size: 60px;
+            border: 20px;
+            background-color: rgb(0, 128, 128);
+            color: white;
+            padding-bottom: 30px;
+            padding-top: 30px;
+        }
+
+
+        #variable{
+            margin: 50px 0px 30px 300px;
+            padding: 0px 0px 0px 220px ;
+            font-size: 30px;
+        }
+        #variable input{
+            width: 260px;
+            height: 50px;
+            align:center;
+            border: 1px solid red;
+            font-size: 20px;
+            align: center ;
+            text-align: center;
+            
+        }
+        .variable1{
+           padding-bottom:20px ;
+           max-width: 20p;
+           
+        }
+        .variable2{
+            padding-bottom:20px ;
+            
+        }
+        .variable3{
+           padding-bottom:20px ;
+           
+        }       
+        .btn{
+            display: block;
+            font-size: 20px;
+            margin-top: 30px;
+            padding: 0px 45px 0px 45px;
+            margin: 17px 148px 20px 101px;
+        }
+        #five{
+            margin: 0px 40px 0px 210px;
+        }
+        #five label{
+            margin: 20px 0px 0px 0px;
+            font-size: 30px;
+        }
+        #five input{
+            margin: 20px 0px 0px 0px;
+            height: 50px;
+            font-size: 20px;
+            text-align: center;
+            border: 1px solid red;
+        }
+
+        .second_root{
+            margin:0px 0px 0px 139px;
+        }
+       
+
+        
